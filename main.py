@@ -5,7 +5,7 @@ from time import sleep
 
 system('cls')
 
-filepath = "Eimi.jpg"
+filepath = "Ali.jpg"
 
 img = cv.imread(filepath)
 
